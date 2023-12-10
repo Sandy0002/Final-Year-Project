@@ -11,3 +11,4 @@ plotly
 tensorflow
 scikit-learn
 numpy
+inotify
